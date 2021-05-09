@@ -1,7 +1,8 @@
-# ciperchile-dataset
-CIPER Chile Dataset
+# CIPER Chile Dataset
 
-Tables and columns:
+Scraped on May 8, 2021 by Jorge Ortiz
+
+## Tables and columns:
 
 1) Publicaciones (publicaciones.csv) 
 - url
@@ -16,7 +17,7 @@ Tables and columns:
 - url
 - comentario
 - fecha_c
-- polaridad
+- polaridad (processed with the "2LabelsSentimentAnalysisSpanish" model of HuggingFace)
 
 3) Temas (temas.csv)
 - url

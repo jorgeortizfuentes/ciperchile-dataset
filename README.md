@@ -17,7 +17,7 @@ Scraped on May 8, 2021 by Jorge Ortiz
 - url
 - comentario
 - fecha_c
-- polaridad (processed with the "2LabelsSentimentAnalysisSpanish" model of HuggingFace)
+- polaridad (processed with  "2LabelsSentimentAnalysisSpanish" model of HuggingFace)
 
 Compressed due to github limitations.
 

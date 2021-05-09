@@ -19,8 +19,6 @@ Scraped on May 8, 2021 by Jorge Ortiz Fuentes.
 - fecha_c
 - polaridad (processed with  "2LabelsSentimentAnalysisSpanish" model of HuggingFace)
 
-Compressed due to github limitations.
-
 3) Temas (14431 rows)
 - url
 - tema

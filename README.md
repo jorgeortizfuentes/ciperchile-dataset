@@ -1,6 +1,6 @@
 # CIPER Chile Dataset
 
-Scraped on May 8, 2021 by Jorge Ortiz
+Scraped on May 8, 2021 by Jorge Ortiz Fuentes.
 
 ## Tables and columns:
 
